@@ -1,2 +1,2 @@
 # github-demo
-demo repository basic Git work
+Demo repository basic Git work
